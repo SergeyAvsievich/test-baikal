@@ -1,0 +1,27 @@
+body {
+     color: #007504;
+     font-size: 17px;
+}
+
+h1, h2, h3, h4, h5 {
+    text-align: center;
+}
+
+.navbar {
+    background-color:#007504;
+    height: 72px;
+    padding: 0 40px;
+}
+
+ul {
+    list-style: none;
+}
+
+/* temp */
+li {
+    cursor: pointer;
+}
+
+form {
+    width: 800px;
+}
